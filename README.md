@@ -26,7 +26,7 @@ ChromeでXを開いたまま、ChatGPTにX運用を手伝ってもらうため�
 
 1. OpenAI公式のChrome extension案内ページを開く
 
-   https://developers.openai.com/codex/chrome-extension
+   https://chromewebstore.google.com/detail/chatgpt/hehggadaopoacecdllhhajmbjkdcmajg?hl=ja
 
 2. ページの案内に従って、Chrome拡張を追加する
 
